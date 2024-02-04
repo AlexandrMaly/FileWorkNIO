@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/out/production/File-Work-NIO-task/app/Application.class
+/out/production/File-Work-NIO-task/utils/Constants.class
+/File-Work-NIO-task.iml
+/out/production/File-Work-NIO-task/service/FileReadService.class
+/out/production/File-Work-NIO-task/service/FileWriteService.class
+/out/production/File-Work-NIO-task/Main.class
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/workspace.xml
